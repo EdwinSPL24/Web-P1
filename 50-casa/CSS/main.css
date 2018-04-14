@@ -1,0 +1,20 @@
+.navbar-header img{
+  height : 50px;
+}
+
+.navbar-header {
+  color: #ccc;
+}
+
+@media only screen and (min-width: 768px) {
+  .log-menu-1{
+      width: 300px;
+      padding: 15px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .log-menu-1{
+      padding: 15px;
+  }
+}
